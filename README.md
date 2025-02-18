@@ -1,5 +1,6 @@
 # piano
 
+```
 sudo apt install libgl-dev 
 sudo apt install alsa-base 
 sudo apt install libalsa-ocaml-dev 
@@ -12,3 +13,4 @@ sudo apt install libxrandr-dev
 sudo apt install libxi-dev
 sudo apt install libxinerama-dev 
 sudo apt install libxxf86vm-dev 
+```
